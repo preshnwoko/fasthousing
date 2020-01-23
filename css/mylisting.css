@@ -8,3 +8,9 @@
 .edit:hover{
     cursor: pointer;
 }
+.backred{
+    background: #E31F12!important;
+}
+.white{
+    color: white!important;
+}
